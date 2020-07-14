@@ -1,0 +1,35 @@
+/* CSS Document */
+body {
+	background-image: url(../images/straw.jpg);
+	background-attachment: fixed;
+}
+#logoImgHolder {
+	float: right; 
+	padding-right: 30px; 
+	padding-top: 25px;
+}
+
+#topBlock {
+	background-image:url(../images/EquineheaderBack.jpg);
+}
+#topBlock.slideshow{
+	
+}
+.baseHolder {
+	background-color:#204444;
+	width: 900px;
+	margin: auto;
+}
+#menuHolder{
+	background-color:#204444;
+}
+#mainHolder {
+	border-left: solid 3px #204444;
+	border-right: solid 3px #204444;
+}
+#mainContent.bgimage1{
+	background-image:url(../images/eq_aboutBG.jpg);
+	background-position: top right; 
+	background-repeat: no-repeat;
+}
+.fadein img { position:absolute; }

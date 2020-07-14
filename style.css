@@ -1,0 +1,102 @@
+/* CSS Document */
+
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+#topBlock {
+	height: 200px;	
+}
+#contactInfo {
+	width: 900px;
+	margin: auto;
+}
+#contactDetails {
+	float:left;
+	padding-left: 20px;
+}
+h2.contactTitle {
+	margin: 0;
+	padding: 0;
+	margin-top:15px;
+	margin-bottom: 10px;
+}
+#mainHolder {
+	width: 900px;
+	margin: auto;
+	background-color:#FFFFFF;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -180px; /* the bottom margin is the negative value of the footer's height */
+
+}
+#introHolder {
+	width: 900px;
+	margin:auto;
+	background-color:#FFFFFF;
+}
+
+.baseHolder {
+	height: 180px;
+	background-color:#7f1399;
+	color: #FFFFFF;
+}
+.push {
+	height: 180px;	
+}
+#menuHolder{
+	background-color:#7f1399;
+	color: #FFFFFF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+
+#mainContent {
+	padding-left: 15px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	background-color:#FFFFFF;
+}
+
+#menuHolder ul{
+	list-style:none;
+	padding: 0;
+	margin: 0;
+}
+#menuHolder li {
+	display: inline-block;
+	margin-right: 20px;
+}
+#menuHolder li a{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#menuHolder li a:hover{
+	text-decoration:underline;
+}
+.rightItem {
+	float:right;
+	font-style:italic;
+}
+
+#contactInfo a{
+	text-decoration:none;
+	color:#FFFFFF;
+}
+#contactInfo a:hover{
+	text-decoration:underline;
+}
+
+.contactDetails {
+	margin-bottom:6px;
+}
+
+.fadein img { position:absolute; }

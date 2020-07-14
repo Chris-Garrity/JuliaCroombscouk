@@ -1,0 +1,32 @@
+/* CSS Document */
+body {
+	background-color:#d195fb;
+	background-image:url(images/backgrad.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+}
+#topBlock{
+	background-image:url(images/massTitle1.jpg);
+}
+#topBlock.slideshow{
+	
+}
+#logoImgHolder {
+	float: right; 
+	padding-right: 30px; 
+	padding-top: 25px;
+}
+#mainHolder {
+	border-left: solid 3px #7f1399;
+	border-right: solid 3px #7f1399;
+}
+
+.baseHolder {
+	width: 900px;
+	margin: auto;
+}
+#mainContent.bgimage1{
+	background-image:url(images/massBG.jpg);
+	background-position: top right; 
+	background-repeat: no-repeat;
+}

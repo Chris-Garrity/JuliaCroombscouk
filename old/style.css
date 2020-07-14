@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#FFFFFF;
+	background-image:url(images/background.png);
+	background-repeat:repeat-x;
+	margin:0px;
+	height: 100%;
+	
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #7f1399;
+}
+html {
+	height: 100%;
+}
+
+#mainHolder {
+	width: 958px;
+	margin: auto;
+	background-image:url(images/mainbg.jpg);	
+	height: 100%;
+	min-height: 880px;
+}
+
+#main {
+	width: 958px;
+	min-height: 600px;
+	background-image:url(images/topbg.jpg);
+	background-repeat:no-repeat;
+	height: 100%;
+}
+#imageholder {
+	float:right;
+	margin-top: 331px;
+	margin-right: 43px;
+}
+#topHolder{
+	padding-top:380px;
+	margin-left: 50px;
+	width: 860px;
+}
+#text1 {
+	float:left;
+	display:block;
+}
+#text2 {
+	float:right;
+	display:block;
+	text-align: right;
+	margin-top:20px;
+	font-size: 16px;
+}
+#bottomHolder {
+	display:block;
+	width: 860px;
+	margin-left: 50px;
+	margin-top:120px;
+}
+
+#bottomHolder2 {
+	display:block;
+	width: 860px;
+	margin-left: 50px;
+	margin-top:280px;
+}
+#text3 {
+	float:left;
+	display:block;
+}
+#text4 {
+	float:left;
+	display:block;
+	text-align: right;
+	padding-left: 30px;
+}
+#text5 {
+	float:left;
+	display:block;
+	padding-left:310px;
+}
+#text6 {
+	float:left;
+	display:block;
+	text-align: right;
+	padding-left: 30px;
+}
+#text7 {
+	float:left;
+	display:block;
+	width: 460px;
+}
+#text8 {
+	float:left;
+	display:block;
+	padding-left:60px;
+}
+#text9 {
+	float:left;
+	display:block;
+	text-align: right;
+	padding-left: 30px;
+}

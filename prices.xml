@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<prices>
+    <timebased>
+        <massage cost="25">30 minutes</massage>
+        <massage cost="30">45 minutes</massage>
+        <massage cost="35">60 minutes</massage>
+        <massage cost="40">75 minutes</massage>
+        <massage cost="45">90 minutes</massage>
+    </timebased>
+    <fullbody>
+        <massage description="Full body massage" cost="35">60 minutes</massage>
+        <massage description="Legs" cost="30">45 minutes</massage>
+        <massage description="Back, neck and shoulders" cost="25">30 minutes</massage>
+    </fullbody>
+</prices>
